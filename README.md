@@ -1,9 +1,9 @@
 # 贪食蛇单机版&对战online版
 游戏元素：①蓝格背景、②主角蛇、③NPC蛇、④食物、⑤计分板、⑥移动端方向键
 
-【贪食蛇单机版】：Canvas 实现，<a href="https://albertlebron.github.io/tanshishe/%E8%B4%AA%E9%A3%9F%E8%9B%87_%E5%8D%95%E6%9C%BA%E7%89%88/tcs.html">预览demo</a><br>
+【贪食蛇单机版】：Canvas 实现，<a target="_blank" href="https://albertlebron.github.io/tanshishe/%E8%B4%AA%E9%A3%9F%E8%9B%87_%E5%8D%95%E6%9C%BA%E7%89%88/tcs.html">预览demo</a><br>
 
-<img src="https://github.com/AlbertLeBron/tanshishe/blob/master/images/tcs_%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE.JPG" />
+<img alt="游戏截图加载中..." src="images/tcs_%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE.JPG" />
 
 【贪食蛇 online 版】：单机版基础上，加上 nodejs+websocket 完成升级
 
