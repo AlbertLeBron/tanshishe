@@ -209,7 +209,7 @@
                 switch(snkMap[key]['nast']){
                     case 1: ctx.fillText(snkMap[key]['na'] , snkMap[key]['sn'].head.x-ctx.measureText(snkMap[key]['na']).width, snkMap[key]['sn'].head.y-13);break;
                     case 2: ctx.fillText(snkMap[key]['na'] , snkMap[key]['sn'].head.x, snkMap[key]['sn'].head.y-13);break;
-                    case 3: for(var i=0;i<snkMap[key]['na'].length;i++){ctx.fillText(snkMap[key]['na'][i] , snkMap[key]['sn'].head.x+13, snkMap[key]['sn'].head.y-(snkMap[key]['na'].length-1-i)*15);};break;
+                    case 3: for(var i=0;i<snkMap[key]['na'].length;i++){ctx.fillText(snkMap[key]['na'][i] , snkMap[key]['sn'].head.x+13, snkMap[key]['sn'].head.y-(snkMap[key]['na'].length-1-i)*15);}break;
                     case 4: for(var i=0;i<snkMap[key]['na'].length;i++){ctx.fillText(snkMap[key]['na'][i] , snkMap[key]['sn'].head.x+13, snkMap[key]['sn'].head.y+(i+1)*15);}
                 }
                 ctx.closePath();
@@ -265,7 +265,7 @@
                 ctx.fill();
             }
             ctx.closePath();
-        };
+        }
 
         function dir(event){
             if(!snake1){
