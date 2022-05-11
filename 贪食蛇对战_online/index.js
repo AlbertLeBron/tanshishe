@@ -1,6 +1,6 @@
 var app = require('express')();
 var http = require('http').Server(app);
-var io = require('socket.io')(http);
+var io = require('socket.io')(http, {cors: true});
 
 app.get('/', function(req, res){
     res.send('<h1>Welcome Realtime Server</h1>');

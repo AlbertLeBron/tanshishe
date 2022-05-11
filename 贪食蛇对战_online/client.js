@@ -30,7 +30,7 @@
             this.toRegame=1;
             this.socket.emit('reGame', {userid:this.userid, snkbaby:this.snkbaby});
         },
-        //提交聊天消息内容
+        //触发并传递变更方向事件
         submit:function(obj){
             this.socket.emit('message', obj);
         },
