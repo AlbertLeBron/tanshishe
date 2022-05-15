@@ -17,7 +17,7 @@
     npm install
 ##### 2. 执行脚本命令启动服务<br>
     npm run start
-##### 3. 浏览器打开项目地址（如要用IP访问，注意先将“client.js”里“ws://”后的“localhost”改为相应IP；如要在其他设备上，注意先打开防火墙）
+##### 3. 浏览器打开项目地址
     localhost:8867
 
 ## 操作
