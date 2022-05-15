@@ -5,7 +5,7 @@
 
 <img alt="游戏截图加载中..." src="images/tcs_%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE.JPG" />
 
-【贪食蛇 online 版】：单机版基础上，加上 nodejs+websocket 完成升级。<a target="_blank" href="http://119.3.144.14:8867">预览demo</a><br>
+【贪食蛇 online 版】：单机版基础上，借助 nodejs+websocket 完成升级。<a target="_blank" href="http://119.3.144.14:8867">预览demo</a><br>
 
 <img alt="游戏截图加载中..." src="images/tcs_online%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.JPG" />
 <img alt="游戏截图加载中..." src="images/tcs_online%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.JPG" />
