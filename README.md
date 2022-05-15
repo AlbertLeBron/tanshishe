@@ -12,13 +12,13 @@
 <img alt="游戏截图加载中..." src="images/tcs_online%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE3.JPG" />
 
 ## 运行
-单机版在浏览器中直接打开tcs.html即可。online版运行步骤示例如下：<br>
-##### 1. 启动 index 服务<br>
-    C:\Users\demo\tanshishe\tcs_online>node index
-##### 2. 启动 app 服务<br>
-    C:\Users\demo\tanshishe\tcs_online>node app
+单机版在浏览器中直接打开tcs.html即可。online版需先进入“/贪食蛇对战_online”目录，运行步骤示例如下：<br>
+##### 1. 初始化游戏项目依赖<br>
+    npm install
+##### 2. 执行脚本命令启动服务<br>
+    npm run start
 ##### 3. 浏览器打开项目地址
-    localhost:8085/tcs_online
+    localhost:8867
 
 ## 操作
 PC端上下左右键盘键、移动端界面右下角四个方向键
